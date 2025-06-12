@@ -1,0 +1,9 @@
+# 忽略 bin 資料夾
+bin/
+
+# 忽略生成的 ld 腳本
+generated.*.ld
+
+# 忽略二進制和 elf 檔案
+*.bin
+*.elf
